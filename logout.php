@@ -1,6 +1,7 @@
 <?php
 
-	session_start();//memulai session
-	unset($_SESSION['username']);//dimana yang menjadi pk di tabel=username
-	echo "<script>location.href='login.php'</script>";//maka akan lari ke login.php
+
+	session_start();
+	unset($_SESSION['username']);
+	echo "<script>location.href='login.php'</script>";
 ?>
