@@ -24,6 +24,9 @@
 					?>
 				</td>
 			</tr>
+			<tr>
+				<td><a href="logout.php">Logout</a></td><!--lari ke logout-->
+			</tr>
 		</table>
 	</form>
 
